@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Task Master: Full-Stack productivity App
 
 A professional task management system built to demonstrate full-stack proficiency.
@@ -18,3 +19,6 @@ A professional task management system built to demonstrate full-stack proficienc
 1. Clone: `git clone https://github.com/Abrham21-lab/Task-Master-Fullstack.git`
 2. **Backend:** `cd server && npm install && node server.js`
 3. **Frontend:** `cd client && npm install && npm run dev`
+=======
+# Task-Master-Fullstack
+>>>>>>> d22438134464f28f610a78985fe89ec6a0e45039
