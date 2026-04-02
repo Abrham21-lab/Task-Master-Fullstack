@@ -1,0 +1,13 @@
+# Dependency folders
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment and Database
+.env
+server/database.sqlite
+
+# Build files
+dist/
+.vite/
+.DS_Store
